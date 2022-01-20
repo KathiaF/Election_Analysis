@@ -46,7 +46,7 @@ The election commission has requested some additional data to complete the audit
     <img src="/Resources/img4.png" width="50%" height="50%">
 
 3. The county with the highest turnout
-4. 
+
     <img src="/Resources/img5.png" width="50%" height="50%">
 
 ## Challenge Summary
@@ -57,3 +57,9 @@ The analysis of the new request shows that:
     - Arapahoe county cast 6.7% of the  votes and 24,801 votes.
 The county with the highest turnout:
     - Denver was the county with the largest voter turnout at 306,055 votes.
+
+- Election Results Printed to the Command Line 
+<img src="/Resources/img6.png" width="50%" height="50%">
+
+- Election Results Saved to a Text File
+<img src="/Resources/img7.png" width="50%" height="50%">
