@@ -15,7 +15,7 @@ A colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.9.0, Visual Studio Code, 1.63.2
 
 ## Summary
-The analysis of the election show that:
+The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
     - Charles Casper Stockham
@@ -69,3 +69,7 @@ The analysis of the new request shows that:
 | <img src="/Resources/img6.png"> | <img src="/Resources/img7.png"> |
 
 ## Challenge Summary
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+- 1.
+- 2.
+
