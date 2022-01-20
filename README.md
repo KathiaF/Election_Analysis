@@ -32,12 +32,17 @@ The analysis of the election show that:
 The election commission has requested some additional data to complete the audit:
 
 1. The voter turnout for each county.
-    1. Create a county list and county votes dictionary and Extract the county name from each row.
+    - Create a county list and county votes dictionary and Extract the county name from each row.
     <img src="/Resources/img1.png" width="50%" height="50%">
     
     <img src="/Resources/img2.png" width="50%" height="50%">
     
-    2. Write a script that adds a vote to the county’s vote count as you are looping through all the rows, like you did for the candidate’s vote count.
+    - Write an if statement that checks that the county does not match any existing county in the county list and add a vote to that county's vote count.
+    
+    <img src="/Resources/img2_2.png" width="50%" height="50%">
+    
+    
+    - Write a script that adds a vote to the county’s vote count as you are looping through all the rows.
     
     <img src="/Resources/img3.png" width="50%" height="50%">
     
@@ -58,8 +63,6 @@ The analysis of the new request shows that:
 The county with the highest turnout:
     - Denver was the county with the largest voter turnout at 306,055 votes.
 
-- Election Results Printed to the Command Line 
-<img src="/Resources/img6.png" width="50%" height="50%">
-
-- Election Results Saved to a Text File
-<img src="/Resources/img7.png" width="50%" height="50%">
+| Election Results Printed to the Command Line | Election Results Saved to a Text File |
+| --- | --- |
+| <img src="/Resources/img6.png"> | <img src="/Resources/img7.png"> |
