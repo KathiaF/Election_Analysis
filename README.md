@@ -69,6 +69,7 @@ The analysis of the new request shows that:
 | <img src="/Resources/img6.png"> | <img src="/Resources/img7.png"> |
 
 ## Challenge Summary
+Provide a business proposal to the election commission on how this script can be used—with some modifications—for any election.
 - Print *vote* and *percentage* per candidate in each county
 - Print which counties voted for which candidate the most
 - Add socio-demographic variables
