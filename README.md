@@ -69,6 +69,7 @@ The analysis of the new request shows that:
 | <img src="/Resources/img6.png"> | <img src="/Resources/img7.png"> |
 
 ## Challenge Summary
-- Print vote and percentage per candidate in each county
+- Print *vote* and *percentage* per candidate in each county
 - Print which counties voted for which candidate the most
+- Add socio-demographic variables
 
