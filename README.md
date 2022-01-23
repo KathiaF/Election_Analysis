@@ -69,7 +69,6 @@ The analysis of the new request shows that:
 | <img src="/Resources/img6.png"> | <img src="/Resources/img7.png"> |
 
 ## Challenge Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-- 1.
-- 2.
+- Print vote and percentage per candidate in each county
+- Print which counties voted for which candidate the most
 
